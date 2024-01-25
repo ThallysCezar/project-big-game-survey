@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Header from './components/Header/Header';
+import RoutesApp from './RoutesApp';
 
 function App() {
   return (
     <div>
-      <Header />
+      <RoutesApp/>
     </div>
   );
 }
